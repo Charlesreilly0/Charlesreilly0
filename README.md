@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, my name is Charlie. I am currently studying for a MSc in Advanced Computer Science from the University of Leeds. I am planning on pursuing a SWE role in my hometown of London, England. Following the completion of my course in August 😊<br><br>- 🔭 I am currently working on developing my Master's Thesis. The project involves, low-level optimisation of the One-Dimensional 'Bin Packing Problem'. I hope to release my findings following the completion of my research.<br>- 📚 I'm currently learning Docker, Kubernetes and Typescript.<br>- ⚡ In my free time, I like to play chess, work on my side-projects and on the weekends, I like to watch my local club, Arsenal - hopefully win.</p>
+<p align="left">Hi, my name is Charlie. I am currently studying for a MSc in Advanced Computer Science from the University of Leeds. I am planning on pursuing a SWE role in my hometown of London, England. Following the completion of my course in August 😊<br><br>- 🔭 I am currently working on developing my Master's Thesis. The project involves, low-level optimisation of the One-Dimensional 'Bin Packing Problem'. I hope to release my findings following the completion of my research.<br>- 📚 I'm currently learning Docker, Kubernetes and Typescript. I hope to showcase some of my newly learnt skills in my upcoming project!.<br>- ⚡ In my free time, I like to play chess, work on my side-projects and on the weekends, I like to watch my local club, Arsenal - hopefully win.</p>
 
 ###
 
