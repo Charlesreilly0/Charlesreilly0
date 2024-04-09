@@ -10,13 +10,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Charlesreilly0.Charlesreilly0&"  />
-</div>
-
-###
 
 <h1 align="center">Hello World👋</h1>
 
