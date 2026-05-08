@@ -2,7 +2,7 @@
 
 <h1>Charlie Reilly</h1>
 
-<p>Machine Learning Engineer &nbsp;·&nbsp; Experian &nbsp;·&nbsp; London, England</p>
+<p>Machine Learning Engineer &nbsp;·&nbsp; London, England</p>
 
 <p>MSc Advanced Computer Science · University of Leeds &nbsp;·&nbsp; Founder of <a href="https://openpager.io">OpenPager</a></p>
 
